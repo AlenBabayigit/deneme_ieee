@@ -11,3 +11,6 @@ def fonksiyon(parametre1):
 
 
 print(fonksiyon(5))
+
+
+print("1000. kere deneme")
