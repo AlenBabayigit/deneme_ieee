@@ -16,5 +16,9 @@ def bora(bora):
 
 print(fonksiyon(5))
 
+"""
+buralar boşşşş
+"""
+
 
 print("1000. kere deneme")
