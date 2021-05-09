@@ -6,6 +6,8 @@ print("Deneme deneme")
 print('ieee cs toplantısı')
 
 
+print('eran bişiler yaptı')
+
 def fonksiyon(parametre1):
     return parametre1 * 2
 
